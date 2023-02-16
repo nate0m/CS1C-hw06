@@ -1,0 +1,36 @@
+Script started on 2023-02-16 12:35:10-08:00 [TERM="st-256color" TTY="/dev/pts/1" COLUMNS="115" LINES="50"]
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw06]1;..CS1C/src/hw06[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw06[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hddate[?1l>[?2004l
+]2;date]1;dateThu Feb 16 12:35:13 PM PST 2023
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw06]1;..CS1C/src/hw06[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw06[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 16
+-rw-r--r-- 1 nate nate 955 Feb 16 12:33 hw06.cpp
+-rw-r--r-- 1 nate nate   0 Feb 16 12:35 hw06.scr
+-rw-r--r-- 1 nate nate 248 Feb 15 17:56 Makefile
+-rw-r--r-- 1 nate nate 786 Feb 16 12:30 reverse.cpp
+-rw-r--r-- 1 nate nate 486 Feb 16 12:33 reverse.h
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw06]1;..CS1C/src/hw06[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw06[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hmmake all[?1l>[?2004l
+]2;make all]1;makeg++ -c reverse.cpp -o reverse.o
+g++ hw06.cpp -o hw06 reverse.o
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw06]1;..CS1C/src/hw06[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw06[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 44
+-rwxr-xr-x 1 nate nate 23992 Feb 16 12:35 [0m[01;32mhw06[0m
+-rw-r--r-- 1 nate nate   955 Feb 16 12:33 hw06.cpp
+-rw-r--r-- 1 nate nate     0 Feb 16 12:35 hw06.scr
+-rw-r--r-- 1 nate nate   248 Feb 15 17:56 Makefile
+-rw-r--r-- 1 nate nate   786 Feb 16 12:30 reverse.cpp
+-rw-r--r-- 1 nate nate   486 Feb 16 12:33 reverse.h
+-rw-r--r-- 1 nate nate  2176 Feb 16 12:35 reverse.o
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw06]1;..CS1C/src/hw06[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw06[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h../hw06[?1l>[?2004l
+]2;./hw06]1;./hw06***********************************
+Programmed By: Nathan Milton
+Student Id   : 1204398
+Assignment   : HW06
+CS1C         : T/TH 1:30
+***********************************
+
+abcdefghijksrqponmltuvwxyz
+abcdwvutsrqponmlkjihgfexyz
+zyxwvutsrqponmlkjihgfedcba
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw06]1;..CS1C/src/hw06[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw06[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2023-02-16 12:35:35-08:00 [COMMAND_EXIT_CODE="0"]

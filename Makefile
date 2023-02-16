@@ -12,4 +12,4 @@ clean:
 	rem hw06 *.o
 
 tar:
-	tar cf hw06 hw06.tar hw06.scr Makefile hw06.cpp reverse.cpp reverse.h
+	tar cf hw06.tar hw06.scr Makefile hw06.cpp reverse.cpp reverse.h
